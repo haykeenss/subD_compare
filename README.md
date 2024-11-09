@@ -2,6 +2,8 @@
 
 This script is designed to merge two lists of subdomains, remove duplicates, and calculate the percentage of duplicates between the two input files.
 
+![Sample Image](view.png)
+
 ## Features
 - **Merges two subdomain files**: Combines subdomains from two input files into one.
 - **Removes duplicates**: Only unique subdomains will be retained in the output file.
