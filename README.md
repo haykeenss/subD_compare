@@ -1,6 +1,6 @@
 # Subdomain Merger and Duplicate Percentage Calculator
 
-This script is designed to merge two lists of subdomains, remove duplicates, and calculate the percentage of duplicates between the two input files.
+This script is designed to merge multiple lists of subdomains simultaneously , remove duplicates, and calculate the percentage of duplicates between the two input files.
 
 ![Sample Image](view.png)
 
@@ -21,4 +21,4 @@ Before running the script, ensure you have the following:
 To run the script, execute the following command in your terminal:
 
 ```bash
-./merge_and_calculate_duplicates.sh <subdomains1.txt> <subdomains2.txt> <output_file.txt>
+./merge_and_calculate_duplicates.sh <subdomains1.txt> <subdomains2.txt> <subdomain....txt> <output_file.txt>
